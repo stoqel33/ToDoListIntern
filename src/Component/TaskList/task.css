@@ -1,0 +1,11 @@
+.MuiCheckbox-colorSecondary.Mui-checked {
+  color: orange !important;
+}
+.MuiSelect-select.MuiSelect-select {
+  padding-right: 60px !important;
+}
+
+.wrapper {
+  display: flex;
+  margin: 20px;
+}

@@ -1,0 +1,27 @@
+.wrapper {
+  width: 90%;
+  border: "1px solid #eee";
+  box-shadow: "0 0 0 8px #ddd";
+  border-radius: "0px";
+
+  @media screen and (min-width: 600px) {
+    width: 80%;
+  }
+  @media screen and (min-width: 1000px) {
+    width: 70%;
+  }
+  @media screen and (min-width: 1400px) {
+    width: 50%;
+  }
+  .header {
+    background: #494430;
+  }
+
+  .title {
+    color: #ddd;
+  }
+
+  .done {
+    color: #ddd;
+  }
+}
