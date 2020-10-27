@@ -14,7 +14,7 @@ To do list application created for the internship at PolSource.
 
 - HTML
 - CSS
-- Java Script
+- JavaScript
 - React
 - React-Hook-Form
 - Material-ui
