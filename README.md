@@ -8,7 +8,7 @@ To do list application created for the internship at PolSource.
 - Make sure to have node.js installed on the device.
 - After cloning, open terminal and navigate to the project directory.
 - Install the initial dependencies using 'npm i' command.
-- Inside the browser, enter the following url: 'http://localhost:8000/'.
+- Inside the browser, enter the following url: 'http://localhost:3000/'.
 
 ## To build it I used
 
